@@ -1,16 +1,16 @@
 
-# Tic Tac Toe Game with Confetti Effect
+# 🎮 Tic Tac Toe Game with Confetti Effect
 
 This is a simple Tic Tac Toe game built with HTML, CSS, and JavaScript. The game includes a fun confetti effect to celebrate the winner.
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
-- [How to Play](#how-to-play)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+ 🚀 - [Getting Started](#getting-started)
+ 🚀 - [How to Play](#how-to-play)
+ 🚀 - [Features](#features)
+ 🚀 - [Technologies Used](#technologies-used)
+ 🚀 - [Contributing](#contributing)
+ 🚀 - [License](#license)
 
 ## Getting Started
 
@@ -87,6 +87,3 @@ If you would like to contribute to this project, please fork the repository and 
 
 5. **Submit a pull request**
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
