@@ -1,5 +1,5 @@
 
-# 🎮 Tic Tac Toe Game with Confetti Effect
+# 🎮 Tic Tac Toe Game
 
 This is a simple Tic Tac Toe game built with HTML, CSS, and JavaScript. The game includes a fun confetti effect to celebrate the winner.
 
