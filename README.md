@@ -40,7 +40,7 @@ You will need a modern web browser to run the game. No additional software is re
     open index.html
     ```
 
-## How to Play
+📖 ## How to Play
 
 1. Open the game in your web browser.
 2. The game starts with player "X". Click on any empty box to make your move.
@@ -49,20 +49,21 @@ You will need a modern web browser to run the game. No additional software is re
 5. If all boxes are filled and there is no winner, the game declares a draw.
 6. Use the "Play Again" button to reset the game and start over.
 
-## Features
+👥## Features
 
 - Interactive Tic Tac Toe game.
 - Confetti effect to celebrate the winner.
 - Reset and Play Again functionality.
 
-## Technologies Used
+.
+📜 ## Technologies Used
 
 - **HTML**: Structure of the web page.
 - **CSS**: Styling for the game elements.
 - **JavaScript**: Game logic and interactivity.
 - **Canvas Confetti**: Confetti effect library.
 
-## Contributing
+🎉## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. Contributions are welcome and appreciated!
 
